@@ -1,0 +1,3 @@
+This is a practical self learn program.
+It covers almost all the topics for C# from basics like datatypes, string operations to advance LINQ, Threading and Asynchronous programing.
+Target Audience: Beginners or the people who wants to revise the C# concepts.
